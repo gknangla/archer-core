@@ -53,7 +53,7 @@
     "chalk": "^5.0.0",
     "ethereum-waffle": "^4.0.0",
     "ethers": "^6.0.0",
-    "hardhat": "^2.0.4",
+    "hardhat": "^3.0.0",
     "hardhat-abi-exporter": "^2.0.5",
     "hardhat-deploy": "^0.14.0",
     "hardhat-deploy-ethers": "^0.4.0",

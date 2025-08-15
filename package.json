@@ -61,6 +61,6 @@
     "hardhat-log-remover": "^2.0.0",
     "@tenderly/hardhat-tenderly": "^2.0.0",
     "solidity-docgen": "^0.5.7",
-    "mocha": "^8.2.0"
+    "mocha": "^11.0.0"
   }
 }
